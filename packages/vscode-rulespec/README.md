@@ -2,7 +2,7 @@
 
 Syntax highlighting and file icons for [RuleSpec](https://axiom-foundation.org) files in VS Code.
 
-Part of [The Axiom Foundation](https://axiom-foundation.org) Axiom Foundation tooling.
+Part of [The Axiom Foundation](https://axiom-foundation.org) tooling.
 
 ## Install
 
@@ -11,7 +11,7 @@ Part of [The Axiom Foundation](https://axiom-foundation.org) Axiom Foundation to
 Search for "RuleSpec" in the VS Code Extensions view, or install from the command line:
 
 ```bash
-code --install-extension rulesfoundation.vscode-rulespec
+code --install-extension axiomfoundation.vscode-rulespec
 ```
 
 ### From a `.vsix` package

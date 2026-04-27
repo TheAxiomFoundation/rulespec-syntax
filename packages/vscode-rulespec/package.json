@@ -4,7 +4,7 @@
   "description": "Syntax highlighting for RuleSpec files",
   "version": "0.1.0",
   "license": "MIT",
-  "publisher": "rulesfoundation",
+  "publisher": "axiomfoundation",
   "repository": {
     "type": "git",
     "url": "https://github.com/TheAxiomFoundation/rulespec-syntax",
